@@ -1,6 +1,6 @@
 mkdir ~/dev
 mkdir ~/pdev
-
+ 
 brew update
 # terminal
 brew install --cask iterm2 
