@@ -27,13 +27,10 @@ brew install --cask notion
 # communication
 brew install --cask discord
 
-# appinstaller
-brew install --cask setapp
-# install time-out , cleanshot x , clean my mac
-
 # manual install app
 # line
-
+# https://apps.apple.com/us/app/canary-mail/id1236045954
+# https://cleanshot.com/
 
 
 nvm install stable
