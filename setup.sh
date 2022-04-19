@@ -10,6 +10,7 @@ brew install blackhole-16ch
 
 # dev
 brew install git
+brew install fin
 brew install gradle
 brew install nvm
 brew install --cask google-chrome
