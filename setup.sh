@@ -24,6 +24,7 @@ brew install --cask rectangle
 brew install --cask jumpcut
 brew install --cask hyperswitch
 brew install --cask notion
+brew install --cask hiddenbar
 
 # communication
 brew install --cask discord
