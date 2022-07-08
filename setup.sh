@@ -19,6 +19,7 @@ brew install --cask responsively
 brew install --cask postman
 brew install --cask jetbrains-toolbox
 brew install gh
+brew install --cask alfred
 
 # productivity
 brew install --cask rectangle
