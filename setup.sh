@@ -19,7 +19,11 @@ brew install --cask responsively
 brew install --cask postman
 brew install --cask jetbrains-toolbox
 brew install gh
+
+# alfred
 brew install --cask alfred
+// alfred://customsearch/Search%20MDN/mdn/utf8/%2B/https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fsearch%3Fq%3D%24%7Bquery%7D
+// alfred://customsearch/Search%20chord/gc/utf8/%2B/https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3D%7Bquery%7D%2B%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94
 
 # productivity
 brew install --cask rectangle
