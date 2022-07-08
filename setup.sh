@@ -18,6 +18,7 @@ brew install --cask visual-studio-code
 brew install --cask responsively
 brew install --cask postman
 brew install --cask jetbrains-toolbox
+brew install gh
 
 # productivity
 brew install --cask rectangle
