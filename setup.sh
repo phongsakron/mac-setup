@@ -35,6 +35,9 @@ brew install --cask hiddenbar
 # communication
 brew install --cask discord
 
+# monitor
+brew install stats
+
 # manual install app
 # line
 # https://apps.apple.com/us/app/canary-mail/id1236045954
